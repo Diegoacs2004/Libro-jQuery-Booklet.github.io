@@ -1,0 +1,27 @@
+*{padding: 0; margin: 0;}
+body{
+	background: black;
+}
+#main{padding-top: 50px}
+
+.pagina{    
+	padding: 40px;
+	height: 100%;
+	padding:40px;
+	text-align: justify;
+	color: #666;
+}
+
+.principal{
+	background: #6e6e6e;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+}
+.principal h2{text-align: center}
+
+h2{font: lighter 20px Verdana;}
+P{font: lighter 15px Verdana;}
